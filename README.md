@@ -27,7 +27,8 @@
 
 </div>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelNChoque&show_icons=true&locale=en" alt="AxelNChoque" /></p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelNChoque&show_icons=true&locale=en&layout=compact" alt="AxelNChoque" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelNChoque&show_icons=true&locale=en" alt="AxelNChoque" /></p>
