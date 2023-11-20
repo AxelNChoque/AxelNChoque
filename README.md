@@ -24,7 +24,7 @@
 
 
   <h3 align="left">Connect with me on </h3>
-  <h3 align="left"><a  href="https://www.linkedin.com/in/axel-nicolas-choque-urquiza-789235244/"> ---LinkedIn---</a></h3>
+  <img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" alt="linkedin" width="40" height="40"/><h3 align=><a  href="https://www.linkedin.com/in/axel-nicolas-choque-urquiza-789235244/"> ---LinkedIn---</a></h3>
   <img align="left" src=https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg alt="outlook" width="40" height="40"/><h3 ><a>axel_chooque@hotmail.com</a></h3>
 
 
