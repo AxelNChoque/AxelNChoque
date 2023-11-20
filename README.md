@@ -24,6 +24,7 @@
 
 <div>
   <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/axel-nicolas-choque-urquiza-789235244/"> ---LinkedIn---</a></h3>
+  <h3 align="left"> axel_chooque@hotmail.com </h3>
 
 </div>
 &nbsp;&nbsp;
