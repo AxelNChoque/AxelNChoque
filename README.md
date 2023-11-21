@@ -10,7 +10,7 @@
 Argentine 🌎</p>
   <p>
 Tech enthusiast 💻</p>
-  <p> I’m currently working on my portfolio and other personal projects.**</p>
+  <p> I’m currently working on my portfolio and other personal projects.</p>
 <h3></h3>
 <h1/>
 
