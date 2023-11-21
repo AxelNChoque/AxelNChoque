@@ -3,13 +3,15 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
-
-<h1>About me</h1>
-23 years old 📅
-Argentine 🌎
-Tech enthusiast 💻
+<h1/>
+<h3>About me: </h3>
+<p>23 years old 📅</p>
+  <p>
+Argentine 🌎</p>
+  <p>
+Tech enthusiast 💻</p>
 <h3></h3>
-
+<h1/>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -28,7 +30,7 @@ Tech enthusiast 💻
 <h1></h1>
 
 
-  <h3 align="left">Connect with me on </h3>
+  <h3 align="left">Connect with me on: </h3>
   <img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" alt="linkedin" width="40" height="40"/><h3 align=><a  href="https://www.linkedin.com/in/axel-nicolas-choque-urquiza-789235244/"> ---LinkedIn---</a></h3>
   <img align="left" src=https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg alt="outlook" width="40" height="40"/><h3 ><a>axel_chooque@hotmail.com</a></h3>
 <h1></h1>
